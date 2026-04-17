@@ -6,3 +6,5 @@ public class ArrayTraversal {
         }
     }
 }
+
+//TC=O(n)
