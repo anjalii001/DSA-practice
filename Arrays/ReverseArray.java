@@ -7,4 +7,4 @@ public class ReverseArray {
     }
 }
 
-//TC=O(n^2)
+//TC=O(n)
